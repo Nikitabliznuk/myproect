@@ -1,0 +1,76 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: rgb(192, 3, 3);
+
+}
+.header1{
+    text-align: end;
+    font-size: 25px;
+}
+.welcome{
+    text-align: center;
+    font-size: 45px;
+    text-decoration:underline;
+}
+.welcome2{
+    text-align: center;
+    margin-top: 10px;
+}
+.gg{
+    text-align: center;
+    margin: auto;
+     width: 9%;
+    border: 3px solid white;
+    
+}
+.ggvp{
+    margin-top: 50px;
+    font-size: 45px;
+    text-decoration:underline;
+    text-align: center;
+}
+.ggvp1{
+    text-align: center;
+    font-size: 25px;
+}
+.ggvp2{
+    margin-left: 200px;
+}
+.ggvp3{
+    margin-left: 600px;
+    margin-top: -300px;
+}
+.ggvp4{
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.text-gidra1{
+    text-decoration: underline;
+    margin-left: 250px;
+}
+.text-gidra2{
+    width: 30%;
+    margin-left: 30px;
+}
+.text-gidra3{
+    text-decoration: underline;
+    margin-left: 650px;
+}
+.text-gidra4{
+    width: 30%;
+    margin: auto;
+}
+.text-gidra5{
+    margin-left: 1050px;
+    text-decoration: underline;
+}
+.text-gidra6{
+    width: 30%;
+    margin-left: 900px;
+}
